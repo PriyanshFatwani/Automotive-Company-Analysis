@@ -44,7 +44,8 @@ This repository contains an **interactive Power BI dashboard** built to analyze 
 
 ## 🖼️ Dashboard Preview
 
-*Insert screenshots or GIFs of your dashboard here*
+![Screenshot 2025-07-04 031228](https://github.com/user-attachments/assets/b4507bcc-803a-43ab-98d3-c552ebdaddcf)
+![Screenshot 2025-07-04 031414](https://github.com/user-attachments/assets/c95ffe3a-fbab-4e41-bd99-9911110d805b)
 
 ---
 
